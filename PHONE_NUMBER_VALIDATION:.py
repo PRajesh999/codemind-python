@@ -1,0 +1,9 @@
+m=int(input())
+c=0
+while(m>0):
+    m=m//10
+    c+=1
+if(c==10):
+    print("Valid")
+else:
+    print("Invalid")
