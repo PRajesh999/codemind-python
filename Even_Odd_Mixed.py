@@ -14,4 +14,3 @@ elif co>0 and ce==0:
     print("Odd")
 else:
     print("Mixed")
-    
